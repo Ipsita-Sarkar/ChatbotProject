@@ -5,9 +5,9 @@ Steps to open the project and the output screen/ user interface:
 
   1. Download the project.
   2. Install Anaconda.
-  3. Create an environment
+  3. Create an environment:
       Run on terminal the following command: conda create -n environment_name python=version(e.g 3.8).
-  4. Activate the environment
+  4. Activate the environment:
       Run on terminal the following command:conda activate environment_name.
   5. Install Pytorch(see official website).
   6. Install nltk(pip install nltk).
