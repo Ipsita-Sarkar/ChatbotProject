@@ -15,3 +15,4 @@ Steps to open the project and the output screen/ user interface:
   7. Go to the desired folder in terminal.
   8. Run the train.py file to dump the data.pth file.
   9. Run the app.py file to see the User Interface.
+  10. Type in your queries in the messgae box below and click on send button.
