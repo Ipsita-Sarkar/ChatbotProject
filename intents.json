@@ -1,0 +1,102 @@
+{
+    "intents": [
+      {
+        "tag": "greeting",
+        "patterns": [
+          "Hi",
+          "Hey",
+          "Anyone here",
+          "How are you",
+          "Is anyone there?",
+          "Hello",
+          "Good day"
+        ],
+        "responses": [
+          "Hey :-)",
+          "",
+          "Hello, thanks for visiting.",
+          "Hi there, what can I do for you?",
+          "Hi there, how can I help?"
+        ]
+      },
+      {
+        "tag": "goodbye",
+        "patterns": ["Bye", "See you later", "Goodbye"],
+        "responses": [
+          "See you later, thanks for visiting.",
+          "Have a nice day!!",
+          "Bye! Come back again soon."
+        ]
+      },
+      {
+        "tag": "thanks",
+        "patterns": ["Thanks", "Thank you", "That's helpful", "Thank's a lot!"],
+        "responses": ["Happy to help!", "Any time!", "My pleasure", "Its my duty"]
+      },
+      {
+        "tag": "items",
+        "patterns": [
+          "Which items do you have?",
+          "What kinds of items are there?",
+          "What do you sell?"
+
+        ],
+        "responses": [
+          "We sell clothing items.",
+          "We have clothing items."
+        ]
+      },
+      {
+        "tag": "payments",
+        "patterns": [
+          "Do you take credit cards?",
+          "Do you accept COD?",
+          "Can I pay with Gpay?",
+          "Are you cash only?"
+        ],
+        "responses": [
+          "We accept credit/debit cards, gpay and COD.",
+          "We accept most major credit cards and Gpay."
+        ]
+      },
+      {
+        "tag": "delivery",
+        "patterns": [
+          "How long does delivery take?",
+          "How long does shipping take?",
+          "When do I get my delivery?"
+        ],
+        "responses": [
+          "Delivery takes 7-10 working days.",
+          "Shipping takes 7-10 working days."
+        ]
+      },
+
+      {
+        "tag": "complaint",
+        "patterns": [
+          "I have a complaint",
+          "Where can I register a complaint?",
+          "Where I can complain?"
+        ],
+        "responses": [
+          "Tell me your problem",
+          "Please elaborate your problem"
+        ]
+      },
+      {
+        "tag": "cancellation",
+        "patterns": [
+          "What is your cancellation policy?",
+          "What is your return/exchange policy?",
+          "How do I cancel my order?",
+          "How do I exchange my order?",
+          "When I will receive my refund?"
+        ],
+        "responses": [
+          "You can cancel/exchange within 1 week and refund will be received within 2 days of cancellation.For more queries email us at goodclothes@fashion.com."
+  
+        ]
+      }
+    ]
+  }
