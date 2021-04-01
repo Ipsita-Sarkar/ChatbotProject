@@ -1,5 +1,6 @@
-A GUI based chatbot implemented using python.
-This chatbot imitates a Customer Support Agent in an Clothing Store.It replies to various queries of the customer.
+A GUI based chatbot implemented using Python.
+
+This chatbot imitates a Customer Support Agent in an Clothing Store. It replies to various queries of the customer.
 
 Steps to open the project and the output screen/ user interface:
 
