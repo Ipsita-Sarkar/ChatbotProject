@@ -8,7 +8,7 @@ Steps to open the project and the output screen/ user interface:
   3. Create an environment:
       1. Run on terminal the following command: conda create -n environment_name python=version(e.g 3.8).
   4. Activate the environment:
-      1. Run on terminal the following command:conda activate environment_name.
+      1. Run on terminal the following command: conda activate environment_name.
   5. Install Pytorch(see official website).
   6. Install nltk(pip install nltk).
   7. Go to the desired folder in terminal.
