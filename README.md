@@ -4,8 +4,8 @@ This chatbot imitates a Customer Support Agent in an Clothing Store.It replies t
 Steps to open the project and the output screen/ user interface:
 
   Download the project.
-  Install Anaconda.
-  Create an environment
+  1. Install Anaconda.
+  2. Create an environment
    Run on terminal the following command: conda create -n environment_name python=version(e.g 3.8).
   Activate the environment
     Run on terminal the following command:conda activate environment_name.
